@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\CTSSystem-Data\CTSSystem.jar</jar>
+  <outfile>C:\CTSSystem-Data\CTSSystem.exe</outfile>
+  <errTitle>SYSTEM ERROR | ECoders</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest>C:\Users\DELL\Documents\NetBeansProjects\CTSSystem_EmmanuelBarrameda\installer config files\CTSSystem.manifest</manifest>
+  <icon>C:\CTSSystem-Data\icon\MAINICON_ICO.ico</icon>
+  <classPath>
+    <mainClass>SplashPackage.splashStartClass</mainClass>
+    <cp>lib/AbsoluteLayout.jar</cp>
+    <cp>lib/KGradientPanel.jar</cp>
+    <cp>lib/RSProgressBar.jar</cp>
+    <cp>lib/RojeruSan.parte1.jar</cp>
+    <cp>lib/flatlaf.jar</cp>
+    <cp>lib/jaco-mp3-player-0.9.3.jar</cp>
+    <cp>lib/material-ui-swing-1.1.1_pre-release_6.1-jar-with-dependencies.jar</cp>
+    <cp>lib/cmu_time_awb.jar</cp>
+    <cp>lib/cmu_us_kal.jar</cp>
+    <cp>lib/cmudict04.jar</cp>
+    <cp>lib/cmulex.jar</cp>
+    <cp>lib/cmutimelex.jar</cp>
+    <cp>lib/en_us.jar</cp>
+    <cp>lib/freetts-jsapi10.jar</cp>
+    <cp>lib/freetts.jar</cp>
+    <cp>lib/mbrola.jar</cp>
+    <cp>lib/org-netbeans-modules-java-j2seproject-copylibstask.jar</cp>
+    <cp>lib/connector.jar</cp>
+    <cp>lib/rs2xml.jar</cp>
+    <cp>lib/sqlite-jdbc-3.30.1.jar</cp>
+  </classPath>
+  <jre>
+    <path>bin/jre</path>
+    <bundledJre64Bit>true</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.00.RE1</txtFileVersion>
+    <fileDescription>Clock, Timer and Stopwatch System</fileDescription>
+    <copyright>ECoders and Emmanuel Barrameda</copyright>
+    <productVersion>2.0.0.0</productVersion>
+    <txtProductVersion>2.00.RE1</txtProductVersion>
+    <productName>CTS System</productName>
+    <companyName>ECoders</companyName>
+    <internalName>CTSSystem</internalName>
+    <originalFilename>CTSSystem.exe</originalFilename>
+    <trademarks>CTS System</trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the CTS System.</startupErr>
+    <bundledJreErr>This  CTS System was configured to use a custom Java Runtime Environment but the runtime is missing or corrupted. Please re-install the program.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment. (version 1.8 or higher)</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>The  CTS System is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
