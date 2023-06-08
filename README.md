@@ -12,6 +12,7 @@
   
   <!-- netbeans -->
   <img src='https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white' />  
+  <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white' />  
   
   <!-- sqlite -->
   <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />  
