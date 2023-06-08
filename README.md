@@ -124,7 +124,7 @@ In short, the MIT License states:
 
 ## 🚀 **Download Code (for Developers)**
 - <b>Download Java Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip) </b>
-<br><i>Note: Make sure to Install the Required softwares on [Depencies](#dependencies-for-java-developers).</i>
+<br><i>Note: Make sure to Install the Required softwares on [Depencies](#%EF%B8%8F-dependencies-for-java-developers).</i>
 <br>
 
 ## 🚀 **Download Installer (for User Testing)**
@@ -140,6 +140,7 @@ In short, the MIT License states:
 1. Add a GitHub :star2:Star to the project.
 2. Tweet about the project on your [![Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 3. Support the project by donating via  [![Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmanpbarrameda)
+<br>
 <br>
 
 <!-- ------ -->
