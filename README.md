@@ -123,13 +123,13 @@ In short, the MIT License states:
 
 
 ## 🚀 **Download Code (for Developers)**
-- Download [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip)
-<br><i>Note: Make sure to Install the Required softwares on Dependencies</i>
+- Download Java Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip)
+<br><i>Note: Make sure to Install the Required softwares on [Depencies](#dependencies-for-java-developers)</i>
 <br>
 
 ## 🚀 **Download Installer (for User Testing)**
-- Download [here](https://mega.nz/file/ikJiUQZb#tt_JxMdQNVMeEXIayQpdxAZG51EgrYeGLW_xWMv7GeM)
-<br><i>Follow the installation steps and feel free to explore the application</i>
+- Download Installer [here](https://mega.nz/file/ikJiUQZb#tt_JxMdQNVMeEXIayQpdxAZG51EgrYeGLW_xWMv7GeM)
+<br><i>Follow the installation steps and feel free to explore the application.</i>
 <br>
 
 <!-- ------ -->
