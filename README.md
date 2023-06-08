@@ -62,6 +62,7 @@
 ## 👨‍💻 **System Features**
 - Installer (.exe)
 - Splash Screen
+- Error Trapping
 - Friendly UI
 - Configurable Settings
 - Clock
