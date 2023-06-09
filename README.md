@@ -124,12 +124,12 @@ In short, the MIT License states:
 <!-- ------ -->
 
 
-## 🚀 **Download Source Code (for Java Developers)**
+## ⚙️ **Download Source Code (for Java Developers)**
 - <b>Download Java Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip) </b>
 <br><i>Note: Make sure to Install the Required softwares on [Depencies](#%EF%B8%8F-dependencies-for-java-developers).</i>
 <br>
 
-## 🚀 **Download Installer (for User Testing)**
+## 🚀 **Download Installer (for Users)**
 - <b>Download Installer of <i>Clock, Timer and Stopwatch System v2.0</i> [here](https://mega.nz/file/ikJiUQZb#tt_JxMdQNVMeEXIayQpdxAZG51EgrYeGLW_xWMv7GeM) </b>
 <br><i>Follow the installation steps and feel free to explore the application.</i>
 <br>
