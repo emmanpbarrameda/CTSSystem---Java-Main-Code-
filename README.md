@@ -89,6 +89,7 @@
 - <b> Stopwatch Record Time Logs, Reset, and Pause: </b> The stopwatch feature enables users to record time logs, reset the stopwatch, and pause it as required, facilitating accurate time tracking and measurement.
 
 <br>
+
 <!-- ------ -->
 
 ## 💡 **Technologies used**
