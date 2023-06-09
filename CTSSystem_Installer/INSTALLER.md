@@ -1,88 +1,7 @@
-<h1 align='center'> Clock, Timer and Stopwatch System </h1>
+<h1 align='center'> DOWNLOAD </h1>
 
 <!-- tag line -->
-<h3 align='center'> Clock, Timer and Stopwatch System<br> using Java Swing GUI (CODE) </h3>
-
-<!-- primary badges -------------------------------------->
-<p align="center">
-  
-  <!-- language -->
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />  
-  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />  
-  
-  <!-- netbeans -->
-  <img src='https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white' />  
-  <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white' />  
-  
-  <!-- sqlite -->
-  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />  
-  
-</p>
-
-<!-- other badges -------------------------------------->
-<p align="center">
-  
-  <!-- views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femmanpbarrameda%2FCTSSystem_Java-CODE&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
-  
-  <!-- follow -->
-  <img src='https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow&maxAge=2592000' />      
-  
-  <!-- license -->
-  <img src='https://img.shields.io/github/license/emmanpbarrameda/CTSSystem_Java-CODE.svg?style=flat-square' />    
-  
-</p>
-
-
-<!-- ------ -->
-
-## 🖍 About
-- The <b>"Clock, Timer, and Stopwatch System"</b> by Emman P. Barrameda is my practice project based on Java Swing, developed during the Covid lockdown in May 2020. This system is inspired by the idea and design of the default clock application in Windows. It consists of an installer and a main Java application. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
-<br>
-
-
-<!-- ------ -->
-
-## 💻 User Interface
-- GIF Preview
-<p align="center">
-  <img src="https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/blob/main/output-media/console_video.gif" width="600" alt="Console GIF" />
-</p>
-
-- Screenshots
-<p align="center">
-  <img src="https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/blob/main/output-media/console_image1.png" width="400" alt="Console Image" />
-  <img src="https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/blob/main/output-media/console_image2.png" width="400" alt="Console Image" />
-  <img src="https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/blob/main/output-media/console_image3.png" width="400" alt="Console Image" />
-</p>
-
-<br>
-<!-- ------ -->
-
-## 👨‍💻 **System Features**
-- Installer (.exe)
-- Splash Screen
-- Error Trapping
-- Friendly UI
-- Configurable Settings
-- Clock
-- Timer
-- Stopwatch
-<br>
-<!-- ------ -->
-
-## 💡 **Technologies used**
-- Java Programming Language
-- Java Swing
-- SQLITE Database
-- NetBeans Apache IDE
-<br>
-<!-- ------ -->
-
-## ⚙️ **Dependencies for Java Developers**
-- [Java JDK 11](https://mega.nz/file/msIwmYjC#qpJL7LFHxTwUkI3jauAH2GQE_xM8ULeVPojfSsZ0KAY)
-- [NetBeans Apache IDE](https://dlcdn.apache.org/netbeans/netbeans-installers/18/Apache-NetBeans-18-bin-windows-x64.exe)
-<br>
+<h3 align='center'> DOWNLOAD INSTALLER </h3>
 
 <!-- ------ -->
 
@@ -123,19 +42,12 @@ In short, the MIT License states:
 
 <!-- ------ -->
 
-
-## 🚀 **Download Code (for Developers)**
-- <b>Download Java Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip) </b>
-<br><i>Note: Make sure to Install the Required softwares on [Depencies](#%EF%B8%8F-dependencies-for-java-developers).</i>
-<br>
-
 ## 🚀 **Download Installer (for User Testing)**
-- <b>Download Installer [here](https://mega.nz/file/ikJiUQZb#tt_JxMdQNVMeEXIayQpdxAZG51EgrYeGLW_xWMv7GeM) </b>
+- <b>Download Installer [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE#-download-installer-for-user-testing) </b>
 <br><i>Follow the installation steps and feel free to explore the application.</i>
 <br>
 
 <!-- ------ -->
-
 
 
 ## :thumbsup: **If you want to say thank you and/or support the project:**
