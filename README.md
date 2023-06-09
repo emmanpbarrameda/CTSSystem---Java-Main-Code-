@@ -132,7 +132,7 @@ In short, the MIT License states:
 ## 🚀 **Download Installer (for Users)**
 <b>Download Installer of <i>Clock, Timer and Stopwatch System</i> below </b>
 
-> | <b>Version</b> | <b>Description</b> | <b>Download Link</b> |
+> | <b>Version</b> | <b>Description</b> | <b>Download</b> |
 > |---------|-------------|----------|
 > | 2.0.0   | Initial Public release | [Download Installer](https://mega.nz/file/ikJiUQZb#tt_JxMdQNVMeEXIayQpdxAZG51EgrYeGLW_xWMv7GeM) |
 
