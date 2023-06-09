@@ -125,7 +125,7 @@ In short, the MIT License states:
 
 
 ## ⚙️ **Download Source Code (for Java Developers)**
-- <b>Download Java Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip) </b>
+- <b>Download Java Source Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip) </b>
 <br><i>Note: Make sure to Install the Required softwares on [Depencies](#%EF%B8%8F-dependencies-for-java-developers).</i>
 <br>
 
