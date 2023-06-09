@@ -3,6 +3,23 @@
 <!-- tag line -->
 <h3 align='center'> Clock, Timer and Stopwatch System<br> using Java Swing GUI (CODE) </h3>
 
+<!-- personal badges -------------------------------------->
+<br>
+<p align="center">
+
+  <!-- my name -->
+  <img alt='/e/' src='https://img.shields.io/badge/MADE_BY - EMMAN_P_BARRAMEDA-100000?style=for-the-badge&logo=/e/&logoColor=1877F2&labelColor=FFFFFF&color=1877F2'/>
+  
+  <!-- open source -->
+  <img alt='Git' src='https://img.shields.io/badge/OPEN_SOURCE-100000?style=for-the-badge&logo=Git&logoColor=FFF9F9&labelColor=FE7D37&color=FE7D37'/>
+  
+  <!-- private -->
+  <!-- 
+  <img alt='Pocket' src='https://img.shields.io/badge/PRIVATE_CODE-100000?style=for-the-badge&logo=Pocket&logoColor=FFFFFF&labelColor=343434&color=343434'/>
+  -->
+
+</p>  
+
 <!-- primary badges -------------------------------------->
 <p align="center">
   
@@ -60,28 +77,34 @@
 <!-- ------ -->
 
 ## 👨‍💻 **System Features**
-- Installer (.exe)
-- Splash Screen
-- Error Trapping
-- Friendly UI
-- Configurable Settings
-- Clock
-- Timer Pause, Restart and Reset
-- Stopwatch Record Time Logs, Reset and Pause
+
+- <b>Installer: </b> Provides an executable (.exe) file for easy installation.
+- <b>Open Source Java Code: </b> The system is developed using open-source Java code, allowing for customization and flexibility.<br> Read the [LICENSE](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE#-license) for more information.
+- <b> Splash Screen: </b> A visually appealing splash screen is displayed during the system startup, providing a professional and engaging user experience.
+- <b> Error Trapping: </b> The system incorporates error trapping mechanisms to identify and handle errors, ensuring smooth operation and preventing crashes.
+- <b> Friendly UI: </b> The user interface (UI) of the system is designed to be user-friendly, intuitive, and easy to navigate, enhancing the overall user experience.
+- <b> Configurable Settings: </b> The system offers configurable settings, allowing users to customize certain aspects of the system to meet their specific needs or preferences.
+- <b> Clock: </b> The system includes a clock feature, displaying the current time, which can be useful for time-tracking or scheduling purposes.
+- <b> Timer Pause, Restart, and Reset: </b> The timer functionality allows users to pause, restart, and reset the timer as needed, providing flexibility and control over timing activities.
+- <b> Stopwatch Record Time Logs, Reset, and Pause: </b> The stopwatch feature enables users to record time logs, reset the stopwatch, and pause it as required, facilitating accurate time tracking and measurement.
+
 <br>
 <!-- ------ -->
 
 ## 💡 **Technologies used**
-- Java Programming Language
-- Java Swing
-- SQLITE Database
-- NetBeans Apache IDE
+- <b>Java Programming Language: </b> This Application is Developed using Java.
+- <b>Java Swing: </b>  Is used to create an interactive user interface.
+- <b>FlatLaf: </b> A Java library that gives a modern and flat look to Swing applications, providing customizable UI components and themes for an enhanced visual experience.
+- <b>SQLite Database: </b>  Utilized for efficient data storage and retrieval.
+- <b>SQLite Browser: </b> Is a user-friendly application for managing and working with SQLite databases. It enables the easiest way to view, edit, and query SQLite files.
+- <b>NetBeans Apache IDE: </b>  Chosen as the development environment for its comprehensive tools and features.
 <br>
 <!-- ------ -->
 
 ## ⚙️ **Dependencies for Java Developers**
 - [Java JDK 11](https://mega.nz/file/msIwmYjC#qpJL7LFHxTwUkI3jauAH2GQE_xM8ULeVPojfSsZ0KAY)
 - [NetBeans Apache IDE](https://dlcdn.apache.org/netbeans/netbeans-installers/18/Apache-NetBeans-18-bin-windows-x64.exe)
+- [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases)
 <br>
 
 <!-- ------ -->
@@ -127,6 +150,10 @@ In short, the MIT License states:
 ## ⚙️ **Download Source Code (for Java Developers)**
 - <b>Download Java Source Code [here](https://github.com/emmanpbarrameda/CTSSystem_Java-CODE/archive/refs/heads/main.zip) </b>
 <br><i>Note: Make sure to Install the Required softwares on [Depencies](#%EF%B8%8F-dependencies-for-java-developers).</i>
+
+- <b>NOTE For Developers: </b>
+-- To <b>run the .jar version</b> of this application <b>without encountering database errors</b> <b><u>after building it on NetBeans Apache </b></u> or if the <b><u>"data"</u></b> folder <b><u>is not found</u></b> in the <b>"dist"</b> folder, <b><i>simply copy</i></b> the <b><u>"data"</u></b> folder from the <b><i>main directory</i></b> of the source code and <b><i>paste it inside</i></b> the <b><u>"dist"</u></b> folder.
+
 <br>
 
 ## 🚀 **Download Installer (for Users)**
