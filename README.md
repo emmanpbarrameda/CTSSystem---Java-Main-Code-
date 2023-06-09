@@ -66,8 +66,8 @@
 - Friendly UI
 - Configurable Settings
 - Clock
-- Timer
-- Stopwatch
+- Timer Pause, Restart and Reset
+- Stopwatch Record Time Logs, Reset and Pause
 <br>
 <!-- ------ -->
 
