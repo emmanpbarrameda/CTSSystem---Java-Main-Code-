@@ -136,6 +136,11 @@ In short, the MIT License states:
 
 <!-- ------ -->
 
+## ⚡ **Account Settings**
+- None.
+<br>
+
+<!-- ------ -->
 
 
 ## :thumbsup: **If you want to say thank you and/or support the project:**
